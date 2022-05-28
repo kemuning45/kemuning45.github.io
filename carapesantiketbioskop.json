@@ -92,7 +92,7 @@
       "id": 1,
       "name_category": "Playstore",
       "title": "Cara Pesan Tiket Bioskopy",
-      "image": "file:///android_asset/image/guide1.jpg",
+      "image": "https://static.republika.co.id/uploads/images/inpicture_slide/penonton-bioskop-xxi-duduk-berjaga-jarak-saat-pemeriksaan-kesiapan_200829202017-690.jpg",
       "description": "ini deskripsi",
       "link": "file:///android_asset/guide/guide1.html"
     },
